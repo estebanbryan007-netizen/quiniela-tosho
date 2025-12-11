@@ -1,1 +1,0 @@
-document.getElementById('matches').innerHTML = "Matches loaded: " + matches.length;
